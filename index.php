@@ -293,49 +293,49 @@
 
             <div class="testimonials owl-carousel">
                 <div class="testimonials-single">
-                    <img src="images/Sudeep.jpg" alt="Team" class="client-img">
+                    <img src="images/Sudeep.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Sudeep Narayan Singh</h5>
                     <p class="text-primary">Founder of NotesReady</p>
                     <small>He is a die-hard coder,and technology geek</small>
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Lalit.jpg" alt="Team" class="client-img">
+                    <img src="images/Lalit.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Lalit Moharana</h5>
                     <p class="text-primary">Sr.Developer at NotesReady</p>
                     <small>He is a die-hard coder,and technology geek</small>
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Bharat.jpg" alt="Team" class="client-img">
+                    <img src="images/Bharat.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Bharat Chandra Mohanty</h5>
                     <p class="text-primary">Sr.Tech Head of NotesReady</p>
                     <small>He is a die-hard coder,and technology geek</small>
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Swaraj.jpg" alt="Team" class="client-img">
+                    <img src="images/Swaraj.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Swaraj Ku. Dhal</h5>
                     <p class="text-primary">Web Developer of NotesReady</p>
                     <small>He is a die-hard coder,and technology geek</small>
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Amrita.jpg" alt="Team" class="client-img">
+                    <img src="images/Amrita.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Amrita sahoo</h5>
                     <p class="text-primary">Project Administrator of NotesReady</p>
                     
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Prachi.jpg" alt="Team" class="client-img">
+                    <img src="images/Prachi.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Prachi Prachurya Jena</h5>
                     <p class="text-primary">Network Site Administrator of NotesReady</p>
                     
                 </div>
                 <div class="testimonials-single">
-                    <img src="images/Prachi.jpg" alt="Team" class="client-img">
+                    <img src="images/Kamal.jpeg" alt="Team" class="client-img">
                     
                     <h5 class="mt-4 mb-2">Kamal Lochan Patra</h5>
                     <p class="text-primary">HR of NotesReady</p>
