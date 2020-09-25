@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <nav class="navbar navbar-dark navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html"><img src="images/logo.png" class="img-fluid" alt="logo" width="200px"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+                        <a class="navbar-brand" href="index.php"><img src="images/logo.png" class="img-fluid" alt="logo" width="200px"></a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                         <div class="collapse navbar-collapse" id="navbar">
                             <ul class="navbar-nav ml-auto">
                                 <li class="nav-item"> <a class="nav-link active" href="#home">HOME <span class="sr-only">(current)</span></a> </li>
@@ -356,20 +356,11 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-6">
                     <div class="box-icon"><span class="ti-mobile gradient-fill ti-3x"></span></div>
-                    <h2>Over 50 Courses
-                        from 3 Streams</h2>
-                    <p class="mb-4">Notes Ready is a one-stop destination for scholars around the world. 
-                        Our aim is to create a platform to bring together teachers and scholars from 
-                        around the world to be able to connect, communicate and share knowledge. 
-                        As education is cutting through the various layers of social structures, 
-                        there are several gaps in education that skew the playing field in favour of the privileged.
-                         Notes Ready was conceived with the notion of filling in these gaps in education: Notes Ready was conceived with 
-                         the vision of filling in these gaps by creating a global community of scholars to facilitate the sharing of knowledge
-                          and resources and sparking discourses on the various bodies of knowledge. Vision and Mission Vision: To bring together
-                           a community of intellectuals that engage in revolutionary discussion, collaborate to create and share content to help 
-                           the masses learn better. Mission: Enabling people in education to connect. Empower institutions to create world-class 
-                           leaders and innovators for society and industry Creating a support system for mastery in learning Enabling access to 
-                           high-quality educational resources for the masses. </p>
+                    <h2>About Us</h2>
+                    <p class="mb-4">We value our Platform for all types of customers. Our website is providing e-learning for students of B. Sc, B. Com and B. Apart from that we also provide e-learning for competitive exams like UPSC, OTET, BED, Banking etc.
+We are a team of 4 created this platform from scratch to help the students who face making notes after every class at their institution. We founded this initiative from a real life student issue and we understand the problems of the present scenario and how difficult it could be for the student who struggles a lot to secure good marks. We have an aim to fulfill all your hardwork and all your passion curated at one platform. 
+We are here to provide you a digitally friendly platform for getting notes of all class hierarchy respectively. We assure you to provide the best notes from the best resources to make your education easy and your preparation successful.
+ </p>
                     <a href="COURSE.html" class="btn btn-primary">Explore Course</a>
                 </div>
             </div>
@@ -611,9 +602,9 @@
         <p class="mb-2"><small>Copyright ©2020 All rights reserved |NotesReady.com <a href="https://notesready.com">NotesReady</a></small></p>
 
         <small>
-            <a href="#" class="m-2">PRESS</a>
-            <a href="#" class="m-2">TERMS</a>
-            <a href="#" class="m-2">PRIVACY</a>
+            <a href="Disclaimer.html" class="m-2">Disclaimer</a>
+            <a href="Terms.html" class="m-2">TERMS</a>
+            <a href="Privacy.html" class="m-2">PRIVACY</a>
         </small>
     </footer>
 
