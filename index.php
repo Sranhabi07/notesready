@@ -466,10 +466,10 @@ We are here to provide you a digitally friendly platform for getting notes of al
             </div>
 
             <div class="img-gallery owl-carousel owl-theme">
-                <img src="images/screen1.jpg" alt="image">
-                <img src="images/screen2.jpg" alt="image">
-                <img src="images/screen3.jpg" alt="image">
-                <img src="images/screen1.jpg" alt="image">
+                <img src="images/screen1.jpeg" alt="image">
+                <img src="images/screen2.jpeg" alt="image">
+                <img src="images/screen3.jpeg" alt="image">
+                <img src="images/screen1.jpeg" alt="image">
             </div>
 
         </div>
